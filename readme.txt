@@ -1,0 +1,3 @@
+reportlab==3.6.11
+selenium==4.4.0
+webdriver_manager==3.8.3
